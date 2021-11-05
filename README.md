@@ -5,7 +5,7 @@ Dan module harus lengkap biar bisa run otomatis
 
 ```
 
-## CARA INSTALL
+## CARA INSTALL DI TERMUX
 
 ```bash
 > apt-get update
