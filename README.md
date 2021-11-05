@@ -15,6 +15,7 @@ Dan module harus lengkap biar bisa run otomatis
 > termux-setup-storage [Y]
 > git clone https://github.com/Lexxy24/lordbot
 > cd lordbot
+> rm -r session.json
 > bash install.sh 
 > npm start
 > Now scan the QR
